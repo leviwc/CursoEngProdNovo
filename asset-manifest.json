@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CursoEngProdNovo/static/css/main.6e722a10.chunk.css",
+    "main.js": "/CursoEngProdNovo/static/js/main.e3e2471c.chunk.js",
+    "main.js.map": "/CursoEngProdNovo/static/js/main.e3e2471c.chunk.js.map",
+    "runtime-main.js": "/CursoEngProdNovo/static/js/runtime-main.7c13eede.js",
+    "runtime-main.js.map": "/CursoEngProdNovo/static/js/runtime-main.7c13eede.js.map",
+    "static/js/2.f9071a03.chunk.js": "/CursoEngProdNovo/static/js/2.f9071a03.chunk.js",
+    "static/js/2.f9071a03.chunk.js.map": "/CursoEngProdNovo/static/js/2.f9071a03.chunk.js.map",
+    "index.html": "/CursoEngProdNovo/index.html",
+    "precache-manifest.411c602a4e77256e512ea76fd56019da.js": "/CursoEngProdNovo/precache-manifest.411c602a4e77256e512ea76fd56019da.js",
+    "service-worker.js": "/CursoEngProdNovo/service-worker.js",
+    "static/css/main.6e722a10.chunk.css.map": "/CursoEngProdNovo/static/css/main.6e722a10.chunk.css.map",
+    "static/js/2.f9071a03.chunk.js.LICENSE.txt": "/CursoEngProdNovo/static/js/2.f9071a03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c13eede.js",
+    "static/js/2.f9071a03.chunk.js",
+    "static/css/main.6e722a10.chunk.css",
+    "static/js/main.e3e2471c.chunk.js"
+  ]
+}
